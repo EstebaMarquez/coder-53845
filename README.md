@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban Marquez</h1>
-<h3 align="center">A passionate student</h3>
+<h3 align="center">A passionategit statu student</h3>
 
 - 🔭 I’m currently working on **Health and Safety**
 
