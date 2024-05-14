@@ -1,0 +1,101 @@
+
+/**---RESET---**/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/** Header **/
+.boton{
+    background-color: black;
+    color: white;
+}
+header{
+    position: sticky;
+    top: 0px;
+    display: flex;
+}
+header form{
+    margin-bottom: 15px;
+}
+header h1{
+    font-size: 50px;
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: blue;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+header nav ul{
+    list-style: none;
+    display: inline-block;
+}
+header nav ul li{
+    display: inline-block;
+    margin: 0px 30px 0px 30px;
+
+}
+header nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+
+/** Main **/
+main{
+    background-color: blue;
+}
+/*Page Empresa*/
+
+.empresa{
+text-align: right;
+background-color: rgb(95, 95, 33);
+}
+.empresa img{
+    width: 500px;
+    height: 250px;
+}
+.empresa a{
+    font-size: 40px;
+    background-color: blueviolet;
+    color: aqua;
+}
+
+/*Page Servicio*/
+.servicio{
+    text-align: left;
+    background-color: rgb(102, 102, 65);
+}
+.servicio img{
+    width: 500px;
+    height: 250px;
+    display: inline-block;
+}
+.servicio a{
+    font-size: 40px;
+    background-color: aquamarine;
+    color: brown;
+}
+
+/*Page Clientes*/
+.clientes img{
+    width: 100px;
+    height: 100px;
+}
+
+/*Logo Whatsapp fixed*/
+
+.fixed img{
+    width: 50px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+/** Footer **/
+
+
